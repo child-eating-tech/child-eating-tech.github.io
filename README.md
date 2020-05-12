@@ -1,3 +1,7 @@
+# Child-Eating Technologies
+
+This is the Child-Eating Technologies' ~~***unofficial***~~ homepage.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/child-eating-tech/child-eating-tech.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
