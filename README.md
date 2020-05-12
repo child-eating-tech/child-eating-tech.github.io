@@ -4,9 +4,9 @@ This is the Child-Eating Technologies' ~~***unofficial***~~ homepage.
 
 ## Members
 
-1. @leostudiooo
-2. @luotr
-3. @zenglixing0822
+- @leostudiooo
+- @luotr
+- @zenglixing0822
 
 ## Welcome to GitHub Pages
 
