@@ -18,5 +18,4 @@ It is simple. Just reply to [the issue](https://github.com/child-eating-tech/chi
 
 ## Projects
 - [Surface Dial Using Attiny](https://github.com/child-eating-tech/Surface_Dial_Arduino)
-- [hexo-theme-child](https://github.com/child-eating-tech/hexo-theme-child)
 - [Child-Eating Tech. Co. Python Laboratory](https://github.com/child-eating-tech/cet-py-lab)
