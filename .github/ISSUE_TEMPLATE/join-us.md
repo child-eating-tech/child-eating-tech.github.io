@@ -1,7 +1,7 @@
 ---
 name: Join us
 about: To Be One of Us
-title: ''
+title: 【加入申请】
 labels: member-request
 assignees: ''
 
