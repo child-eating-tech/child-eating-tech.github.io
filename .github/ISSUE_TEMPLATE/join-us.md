@@ -7,4 +7,5 @@ assignees: ''
 
 ---
 
-- How?It is simple. Just reply to [the issue](https://github.com/child-eating-tech/child-eating-tech.github.io/issues/2) and wait patiently.
+- I want to join you
+- I want to make projects with you
