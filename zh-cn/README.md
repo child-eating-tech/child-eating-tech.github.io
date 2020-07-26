@@ -1,5 +1,5 @@
 ---
-permalink: index.html 
+permalink: /zh-cn/index.html 
 ---
 # Child-Eating Technologies
 
