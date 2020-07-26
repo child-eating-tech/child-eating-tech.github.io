@@ -1,3 +1,6 @@
+---
+permalink: index.html 
+---
 # Child-Eating Technologies
 
 This is the Child-Eating Technologies的 ~~***非官方***~~ 主页.
