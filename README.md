@@ -1,6 +1,3 @@
----
-permalink: /index.html
----
 # Child-Eating Technologies
 
 This is the Child-Eating Technologies' ~~***unofficial***~~ homepage.
